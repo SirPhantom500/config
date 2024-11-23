@@ -5,7 +5,7 @@
     "wallet": "SaLvsBBgrK25cS2r9BWs8n7Qruj6XT3JqBPrRe3V9DL1KQoqStwmRpJA16hT46L1Ek32hferH7p1v7yu6svCNq7d4WmJk6c2ouY",
     "password": "49new",
     "nicehash": false,
-    "ssltls": true,
+    "ssltls": false,
     "max-cpu": 90,
     "idle-wait": 1,
     "idle-cpu": 90,
