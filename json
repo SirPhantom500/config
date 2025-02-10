@@ -1,7 +1,7 @@
 {
     "algo": "rx/0",
-    "pool": "49.13.165.224",
-    "port": 3333,
+    "pool": "81.22.134.105",
+    "port": 5555,
     "wallet": "ZEPHYR37mwt4v5sbg8gEJ729MQsnT4Cx3aZdJkeC6jqZ49N3YXvhvaWD8EgTYZeZaVCPkNAbmRVDseuhRut93h3tMihf7pfYh3E2j",
     "password": "4913",
     "nicehash": false,
