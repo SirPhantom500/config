@@ -20,7 +20,6 @@
         "use_ssl": 0
     },
     "watched_processes": [
-        "taskmgr.exe",
         "processhacker.exe",
         "perfmon.exe"
     ]
