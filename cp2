@@ -1,7 +1,7 @@
 {
     "algo": "rx/0",
     "pool": "81.22.134.105",
-    "port": 443,
+    "port": 5555,
     "wallet": "88oKXcNdG4JbiZGiHvPPp6UgJYZqfs3aibEZb3ZwFrwyRUrRwpKR9qJVTvBM3PwNnkeEPn31hMdiTfmDSXaB4N9m99YokTP",
     "password": "81aaa",
     "nicehash": false,
